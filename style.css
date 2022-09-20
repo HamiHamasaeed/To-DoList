@@ -1,0 +1,57 @@
+#addBtn{
+    font-size: 30px;
+    color:  cornflowerblue;
+    cursor: pointer;
+}
+#addBtn:hover{
+    color: darkcyan;
+}
+
+.secondRow{
+    background-color: #F8F9FA;
+}
+
+.checkBtn{
+    color: #00bf5c;
+    cursor: pointer;
+    font-size: 25px;
+}
+.checkBtn:hover{
+    color: #00ff2f;
+
+}
+
+.crossBtn{
+    color: #ff0000be;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.crossBtn:hover{
+    color: #fe707f; 
+}
+
+.item_description{
+    font-weight:450px;
+}
+
+.entire-row{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    background-color: #779acf;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.done_style{
+    color: rgb(172, 172, 172);
+    text-decoration: line-through;
+}
+
+.done_btn_style{
+    color: rgb(176, 176, 176);
+}
+
+.done_btn_style:hover{
+    color: rgb(211, 211, 211);
+}
